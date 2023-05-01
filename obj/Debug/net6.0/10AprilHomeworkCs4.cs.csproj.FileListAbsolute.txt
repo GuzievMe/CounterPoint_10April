@@ -1,0 +1,15 @@
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\bin\Debug\net6.0\10AprilHomeworkCs4.cs.exe
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\bin\Debug\net6.0\10AprilHomeworkCs4.cs.deps.json
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\bin\Debug\net6.0\10AprilHomeworkCs4.cs.runtimeconfig.json
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\bin\Debug\net6.0\10AprilHomeworkCs4.cs.dll
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\bin\Debug\net6.0\10AprilHomeworkCs4.cs.pdb
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\10AprilHomeworkCs4.cs.csproj.AssemblyReference.cache
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\10AprilHomeworkCs4.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\10AprilHomeworkCs4.cs.AssemblyInfoInputs.cache
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\10AprilHomeworkCs4.cs.AssemblyInfo.cs
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\10AprilHomeworkCs4.cs.csproj.CoreCompileInputs.cache
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\10AprilHomeworkCs4.cs.dll
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\refint\10AprilHomeworkCs4.cs.dll
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\10AprilHomeworkCs4.cs.pdb
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\10AprilHomeworkCs4.cs.genruntimeconfig.cache
+C:\Users\Maham\Desktop\10AprilHomeworkCs4.cs\obj\Debug\net6.0\ref\10AprilHomeworkCs4.cs.dll
